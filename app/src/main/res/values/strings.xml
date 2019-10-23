@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_button">Prawda</string>
+    <string name="false_button">Fałsz</string>
+    <string name="next_button">Następne</string>
+
+    <string name="q_australia">Stolicą Austalii jest Sydney</string>
+    <string name="q_usa">Stolicą USA jest Las Vegas</string>
+    <string name="q_england">Londyn jest stolicą Anglii</string>
+    <string name="q_holland">Stolicą Holandii jest Amsterdam</string>
+    <string name="q_spain">Barcelona jest stolicą Hiszpanii</string>
+    <string name="q_italy">Stolicą Włoch jest Rzym</string>
+
+    <string name="correct_answer">Poprawna odpowiedz</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedz</string>
+
+    <string name="prompt">Czy na pewno chcesz zobaczyć prawidłową odpowiedź?</string>
+    <string name="show_answer_button">Pokaż odpowiedź</string>
+    <string name="prompt_button">Podpowiedź</string>
+    <string name="answer_was_shown">Oszukujesz! Podpowiedź była wyświetlona</string>
+</resources>
